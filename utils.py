@@ -54,6 +54,3 @@ class Controller:
             return getRoBERTaInferenceModel(self.roberta, review)
         else:
             return "Model not Available"
-
-
-controller = Controller()
