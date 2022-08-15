@@ -1,0 +1,4 @@
+streamlit==1.2.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.0+cpu
+transformers==4.13.0
